@@ -1,7 +1,7 @@
 NAME
 ====
 
-Lingua::TR::Numbers - blah blah blah
+Lingua::TR::Numbers - A raku module for converting numbers to Turkish text
 
 SYNOPSIS
 ========
@@ -13,7 +13,8 @@ use Lingua::TR::Numbers;
 DESCRIPTION
 ===========
 
-Lingua::TR::Numbers is ...
+Lingua::TR::Numbers is A raku module to convert numbers to Turkish text. Common, financial and scientific notations are supported
+The module is not complete in is currently being developed
 
 AUTHOR
 ======
