@@ -14,7 +14,7 @@ DESCRIPTION
 ===========
 
 Lingua::TR::Numbers is A raku module to convert numbers to Turkish text. Common, financial and scientific notations are supported
-The module is not complete in is currently being developed
+The module is not complete and is currently being developed
 
 AUTHOR
 ======
