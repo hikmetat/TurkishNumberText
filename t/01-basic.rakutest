@@ -1,0 +1,6 @@
+use Test;
+use Lingua::TR::Numbers;
+
+pass "replace me";
+
+done-testing;

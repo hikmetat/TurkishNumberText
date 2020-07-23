@@ -1,0 +1,38 @@
+# Birler
+0                   sıfır
+1                   bir
+5                   beş
+
+# Onlar
+10                  on
+18                  on sekiz
+30                  otuz
+70                  yetmiş
+
+# Yüzler
+100                 yüz
+107                 yüz yedi
+140                 yüz kırk
+186                 yüz seksen altı
+500                 beş yüz
+501                 beşyüz bir
+990                 dokuz yüz doksan
+
+# Binler
+1000                bin
+1007                bin yedi
+1011                bin on bir
+1807                bin sekiz yüz yedi
+3000                üç bin
+5010                beş bin on
+7909                yedi bin dokuz yüz dokuz
+8800                sekiz bin sekiz yüz
+6412                altı bin dört yüz on iki
+9999                dokuz bin dokuz yüz doksan dokuz
+
+# On binler
+10000               on bin
+10001               on bin bir
+20102               yirmi bin yüz iki
+86074               seksen altı bin yetmiş dört
+96398               doksan altı bin üç yüz doksan sekiz
